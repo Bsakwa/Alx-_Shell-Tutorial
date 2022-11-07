@@ -4,7 +4,7 @@
 /**
   * main - Prints"$" and waits for user to enter command
   *
-  * return: 0
+  * Return: 0 on success
   */
 int main(void)
 {
